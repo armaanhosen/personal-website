@@ -76,6 +76,9 @@ p{
 .fourth-banner{
     height: 600px;
     text-align: center;
+    background-image: url("resources/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .post{
     font-size: xx-small;
